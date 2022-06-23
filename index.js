@@ -54,7 +54,7 @@
 // // console.log(sentence.length)
 // let sentenceReversed = []
 
-// for(let i = sentence.length; i >= 0; i--){
+// for(let i = sentence.length - 1; i >= 0; i--){
 //   sentenceReversed.push(sentence[i])
 //   // console.log(sentence[i])
 // }
@@ -98,7 +98,7 @@
 // let names = ["Dushen", "Florent", "Rayan", "Lynda", "Thomas", "Florez", "Mago", "Aurelien", "Wade", "Arthur", "Jad", "Clara", "Emad", "Edaly", "Julien", "Walid1", "Walid2", "Cinnie", "Danh", "Lucas"]
 
 // const min = 0
-// const max = names.length
+// const max = names.length - 1
 
 // const random = Math.floor(Math.random() * max) + min
 
